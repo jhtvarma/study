@@ -1,0 +1,23 @@
+/*
+	Stacks and Queues
+*/
+1) Implement two stacks in same array
+2) Implement k stacks in same array
+3) Reverse stack using recursion
+4) Sort stack using recursion and Sort a stack using temporary stack
+5) Stock Span Problem
+6) Implement stack using two queues
+7) Implement queue using two stacks
+
+
+/*
+	Trees
+*/
+1) Wavelet Trees
+2) Segment Tree
+3) Fenwick trees (Binary Indexed)
+4) AVL Trees
+5) Van Emde boas tree
+6) B tree
+7) Red black trees
+8) Tries

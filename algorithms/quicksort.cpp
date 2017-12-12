@@ -1,5 +1,13 @@
 #include<iostream>
 using namespace std;
+/*
+	TODO
+	Dual Pivot quicksort
+	Randomized Pivot selection
+	Median of three pivot selection
+	Iterative Quick Sort
+	Quickselect algorithm -> nth element
+*/
 void printArray(int *input, int size);
 void qsort(int *input,int low, int high);
 int partition(int *input, int low, int high);
