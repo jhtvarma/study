@@ -1,0 +1,18 @@
+Sleep Sort 
+- Ascensing : Create a seperate thread for each element and pass a routine with sleep arr[i] time
+- Descending : Find max number -> Sleep (arr[i] - maxNumber)
+
+Gnome Sort - Stupid Sort
+- if a[i] > a[i-1] then go to a[i+1]
+- else swap a[i] & a[i-1] and i--
+
+Tree Sort - Inorder sort
+void storeSorted(Node *root, int arr[], int &i)
+{
+    if (root != NULL)
+    {
+        storeSorted(root->left, arr, i);
+        arr[i++] = root->key;
+        storeSorted(root->right, arr, i);
+    }
+}
