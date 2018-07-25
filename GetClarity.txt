@@ -1,0 +1,57 @@
+1) Horizontal vs Vertical scaling - http://ht.ly/cAhY6, http://ht.ly/cAhPe
+2) CAP Theorem
+3) ACID vs BASE
+4) Partitioning/Sharding Data (Consistent Hashing)
+5) Optimistic Vs Pessimistic Locking
+6) Strong vs Eventual Consistency
+7) Relational DB vs NO SQL
+8) Types of No SQL - (Key Value, Wide Column, Document, Graph)
+9) Caching(Split Hash)
+10) Data Center/Racks/Hosts
+11) CPU,Memory,hard Drive,Network bandwith - limited resources
+12) Random vs sequential read/write on disk
+13) HTTP vs HTTP2 vs Websocket
+14) TCP/IP model - 4 layers
+15) IP4 vs IP6
+16) TCP vs UDP
+17) DNS lookup
+18) HTTPS vs TLS
+19) Public key and certificate authority
+20) Symmetric vs asymmetric encryption
+21) Load Balancer -> L4 vs L7
+22) CDN & EDGE
+23) Bloom filters and Count-min sketch
+24) Paxos - Consensus over distributed hosts -> leader election
+25) Design patterns & OOD
+26) Virtual machines and containers
+27) Publisher-Subscriber over queue
+28) Map reduce
+29) MultiThreading, Concurrency, Locks, Synchronization, CAS(Compare symantics)
+
+Databases
+1) Cassandra
+2) Mongo Db/Couch base
+3) MYSQL
+
+Caching Techniques
+1) Memcached
+2) Redis
+
+zookeeper
+kafka
+
+LoadBalancers
+1) NGINX
+2) HAProxy
+
+Search Platforms
+1) Solr
+2) Elastic search
+
+Blobstore like Amazon s3
+
+Docker - Kubernetes,Mesos
+
+Resiliency testing - Hailstorm, Shadow fleets
+Hadoop/Spark - HDFS
+
